@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    align-items: center;
+}
+.tit{
+    color: orangered;
+}
+#chi{
+    margin-right: 50%;
+}
+.navbar{
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    background: #122620;
+    color: white;
+    border-bottom: 2px solid orangered;
+}
+ul li {
+    display:inline;
+    padding-right:15px ;
+}
+a{
+    color: white;
+    font-size: 0.8rem;
+}
+
+.animg{
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    background-image: url(/img/showcase.jpg);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+.animg p{color: white;}
+#TitleofAnimg{
+    padding-top:50px;
+    padding-bottom:25px;
+}
+.newsletter{
+    height: 70px;
+    background: #122620;
+    display: flex;
+    justify-content: space-around;
+}
+#subscribe{
+    background-color: orangered;
+}
+
+.Langs{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.logo{
+   height: 100px;
+  
+}
+.Langs p,h3{color: black;
+padding-top: 20px;
+}
+
+.Footer{
+    background-color: orangered;
+    margin-top: 8.6%;
+}
+.sec1{
+    width: 70%;
+    padding-bottom: 10px;
+    margin-left: 100px;
+}
+.sec1 p{
+    color: black;
+    
+}
+.sec2 p{
+    color: white;
+    
+}
+.sec2{
+    background-color:#122620 ;
+    width: 70%;
+    padding: 10px;
+    margin-left: 100px;
+}
+.sec3{
+    background-color:#122620 ;
+    width: 90%;
+    padding: 10px;
+    margin:100px;
+    margin-left: 20px;
+}
+
+.sec3 p,h3{
+    color: white;
+}
+
+.About_Us{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.FooterAb{
+    width: 100%;
+    background-color: orangered;
+    position: absolute;
+    bottom: 0; 
+}
+.FooterAb p{
+color: white;}
+.wholeSec{
+    display: flex;
+  
+}
+.Service{
+    margin: 2px;
+}
+.Ser1{
+margin: 4px;
+background-color: lightgrey;
+border: 1px solid gray;
+width: 50%;
+padding: 20px;
+
+}
+.Ser2{
+    margin: 4px;
+    background-color: lightgrey;
+    border: 1px solid gray;
+    width: 50%;
+    padding: 20px;
+}
+.Ser3{
+        margin: 4px;
+        background-color: lightgrey;
+        border: 1px solid gray;
+        width: 50%;
+        padding: 20px;
+}
+.Service h3{
+color: black;
+text-align: left;
+padding: 20px;
+}
+.Ser1 h3,p{
+    color: black;
+}
+.Ser2 h3,p{
+    color: black;
+}
+.Ser3 h3,p{
+    color: black;
+}
+
+.GetQuote{
+    background-color:#122620 ;
+    width: 60%;
+    text-align: center;
+}
+.GetQuote h3{padding: 10px;}
+
+.FooterSer p{color: white;}
+
+.FooterSer{
+    height: 25px;
+    width: 100%;
+    background-color: orangered;
+    position: absolute;
+    bottom: 0;
+}
