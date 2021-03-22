@@ -1,2 +1,2 @@
 ## This is a simple website which contains three pages.
-## I ceated this website only using HTML and CSS, forthat matter I tried to make it more responsive as much as I can.
+### I ceated this website only using HTML and CSS, forthat matter I tried to make it more responsive as much as I can.
